@@ -6,3 +6,4 @@ OnePlus devices are usually easy to unlock:
 2. Reboot into fastboot:
    ```bash
    adb reboot bootloader
+   fastboot oem unlock or fastboot flashing unlock
